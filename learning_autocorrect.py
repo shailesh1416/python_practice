@@ -1,4 +1,4 @@
-word = "shailesh"
+word = "Synchronization"
 
 wrong_words = []
 
