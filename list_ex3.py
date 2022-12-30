@@ -3,20 +3,20 @@
 
 list_of_student =["aman","chaman","sohan","mohan","monu","sonu","rinku","pinku","aman","mahesh"]
 
-# find how many students are by name aman
+# Q. find how many students are by name aman
 # code here
 
 
-# find how total student in list
+# Q. find how total student in list
 # code here
 
 
-# find how many name starts with m
+# Q. find how many name starts with m
 # code here
 
 
-# print all the students list as below
-# use for loop with range() and len() functiom
+#Q. print all the name in list as below
+
 # 1 aman
 # 2 chaman
 # 3 sohan
@@ -28,6 +28,7 @@ list_of_student =["aman","chaman","sohan","mohan","monu","sonu","rinku","pinku",
 # 9 aman
 # 10 mahesh
 
+# HINT: use for loop with range() and len() functiom
 # code here
 
 
