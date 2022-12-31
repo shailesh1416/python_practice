@@ -1,0 +1,11 @@
+# Q. Understant the code 
+item_details = [
+    ["101","Mouse",200],
+    ["102","Keyboard",200],
+    ["103","Printer",12000],
+    ["104","Monitor",6000],
+    ["105","CPU",10000]
+]
+
+
+print(item_details[4][2])
