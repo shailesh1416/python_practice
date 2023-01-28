@@ -13,6 +13,11 @@ stations = ['Dahanu','Vangao','Boisar','Palghar','Umroli','Kelve Road','Saphale'
 
 
 
+# take a station as input
+# find its potition in list
+
+
+
 # take a station as input from user
 # and print the next station
 
@@ -21,6 +26,7 @@ stations = ['Dahanu','Vangao','Boisar','Palghar','Umroli','Kelve Road','Saphale'
 
 # take a station as input from user
 # and print the previous station
+
 
 
 
